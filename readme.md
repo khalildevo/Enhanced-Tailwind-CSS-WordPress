@@ -135,10 +135,6 @@ Yes, the plugin uses Tailwind CSS Browser which includes Just-In-Time compilatio
 - WordPress 5.8 or higher
 - PHP 7.4 or higher
 
-## Support and Contribution
-
-For support or to contribute to this project, please visit the [GitHub repository](https://github.com/your-username/enhanced-tailwind-wp).
-
 ## License
 
 GPL-2.0+ - See [LICENSE](LICENSE) for details.
