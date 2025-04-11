@@ -1,0 +1,25 @@
+{
+    "apiVersion": 2,
+    "name": "enhanced-tailwind-wp/container",
+    "title": "Tailwind Container",
+    "category": "design",
+    "icon": "align-center",
+    "description": "A container block with Tailwind CSS classes",
+    "supports": {
+        "html": false
+    },
+    "textdomain": "enhanced-tailwind-wp",
+    "attributes": {
+        "content": {
+            "type": "string",
+            "source": "html",
+            "selector": "div"
+        },
+        "className": {
+            "type": "string",
+            "default": "container mx-auto px-4"
+        }
+    },
+    "editorScript": "file:./index.js",
+    "style": "file:./style.css"
+}
